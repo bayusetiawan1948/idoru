@@ -1,0 +1,17 @@
+{
+  "name":"Yessica Tamara",
+  "username":"Chika",
+  "jikoshoukai":"Dengan gummy smile ku, aku akan memberikan kebahagian hallo aku chika",
+  "birth_date":"24-09-2002",
+  "body_height":165,
+  "blood_type":"A",
+  "generation":7,
+  "joined_at":"29-09-2018",
+  "isActive":1,
+  "social_media":{
+      "instagram": "https://www.instagram.com/jkt48.chika/",
+      "twitter": "https://twitter.com/Y_ChikaJKT48",
+      "tiktok": "https://www.tiktok.com/@chikajkt48",
+      "showroom": "https://www.showroom-live.com/r/JKT48_Chika"
+  }
+}
